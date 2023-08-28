@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\VAITY\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\VAITY\\.nuget\\packages"
+    ]
+  }
+}
