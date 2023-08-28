@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VAITY\\source\\repos\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj": {}
+    "C:\\Users\\VAITY\\source\\repos\\RedisApp\\RedisDemo\\RedisDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VAITY\\source\\repos\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj": {
+    "C:\\Users\\VAITY\\source\\repos\\RedisApp\\RedisDemo\\RedisDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VAITY\\source\\repos\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
+        "projectUniqueName": "C:\\Users\\VAITY\\source\\repos\\RedisApp\\RedisDemo\\RedisDemo.csproj",
         "projectName": "RedisDemo",
-        "projectPath": "C:\\Users\\VAITY\\source\\repos\\IntroToRedisSourceCode\\RedisDemo\\RedisDemo.csproj",
+        "projectPath": "C:\\Users\\VAITY\\source\\repos\\RedisApp\\RedisDemo\\RedisDemo.csproj",
         "packagesPath": "C:\\Users\\VAITY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VAITY\\source\\repos\\IntroToRedisSourceCode\\RedisDemo\\obj\\",
+        "outputPath": "C:\\Users\\VAITY\\source\\repos\\RedisApp\\RedisDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VAITY\\AppData\\Roaming\\NuGet\\NuGet.Config",
